@@ -1,0 +1,25 @@
+﻿Build started 7/11/2018 11:55:59 AM.
+     1>Project "D:\e\documents\visual studio\ATM PROJECT\ATM PROJECT\ATM PROJECT.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ATM PROJECT.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         ATM PROJECT.vcxproj -> D:\e\documents\visual studio\ATM PROJECT\Debug\ATM PROJECT.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ATM PROJECT.unsuccessfulbuild".
+         Touching "Debug\ATM PROJECT.lastbuildstate".
+     1>Done Building Project "D:\e\documents\visual studio\ATM PROJECT\ATM PROJECT\ATM PROJECT.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.52
